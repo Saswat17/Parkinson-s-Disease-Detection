@@ -1,1 +1,1 @@
-# ML-Project
+# Parkinson's Disease Detection
